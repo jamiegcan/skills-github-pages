@@ -1,12 +1,8 @@
----
-title: Home
----
-
 Here I learned how to create my own GitHub Pages for the first time. Check out the [skills/github-pages](https://github.com/skills/github-pages) page for an interactive guide to creating your own github.io site!
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://github.com/skills/github-pages).
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
